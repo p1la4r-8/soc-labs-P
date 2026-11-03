@@ -1,0 +1,17 @@
+[
+    {
+        "ip": "72.5.43.29",
+        "status": "validated",
+        "note": "Requires active API key for full enrichment"
+    },
+    {
+        "ip": "8.8.8.8",
+        "status": "validated",
+        "note": "Requires active API key for full enrichment"
+    },
+    {
+        "ip": "1.1.1.1",
+        "status": "validated",
+        "note": "Requires active API key for full enrichment"
+    }
+]
